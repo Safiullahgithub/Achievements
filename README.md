@@ -12,5 +12,11 @@ My Certifications in the field of Security
 # 2.Foundations of Cybersecurity  
 ::https://www.coursera.org/account/accomplishments/certificate/YHCVSBN4M2KE
 
+# Securing Software, Data and End Points
+https://www.coursera.org/account/accomplishments/records/53UQNR2693VC
+
+# Automate Cybersecurity Tasks with Python
+https://www.coursera.org/account/accomplishments/records/ZDPAC5EHN2KU
+
 
 
